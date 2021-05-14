@@ -57,6 +57,9 @@ Compilado de *links* para materiais úteis relacionados a *R*, *Python*, *Data S
 - <a href="https://scikit-learn.org/stable/">`scikit-learn`: Machine Learning in *Python*</a>
 - <a href="https://pycaret.org/guide/">`pycaret`: Low-Code Machine Learning in *Python*</a>
 
+### *Spark*
+- <a href="https://spark.apache.org/docs/latest/api/python/">`PySpark`: Apache Spark in *Python*</a>
+
 ### Data Science
 - <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">*Python* Data Science Handbook</a>
 
