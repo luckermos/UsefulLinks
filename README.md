@@ -36,7 +36,8 @@ Compilado de *links* para materiais úteis relacionados a *R*, *Python*, *Data S
 - <a href="https://lgatto.github.io/IntroMachineLearningWithR/index.html">An Introduction to Machine Learning with *R*</a>
 - <a href="https://bradleyboehmke.github.io/HOML/">Hands-On Machine Learning with *R*</a>
 - <a href="http://www.rizbicki.ufscar.br/ame/">Aprendizado de Máquina: Uma Abordagem Estatística</a>
-- <a href="https://mlr.mlr-org.com">`mlr` Package: Machine Learning with *R*</a>
+- <a href="https://mlr3.mlr-org.com">`mlr3` Package: Machine Learning with *R*</a>
+- <a href="https://introduction-to-machine-learning.netlify.app/chapter09">Introduction to `mlr3` Package</a>
 - <a href="http://topepo.github.io/caret/index.html">The `caret` Package</a>
 
 ### *Spark*
