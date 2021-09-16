@@ -23,6 +23,7 @@ Compilado de *links* para materiais úteis relacionados a *R*, *Python*, *Data S
 - <a href="https://bookdown.org/yihui/bookdown/">Bookdown</a>
 - <a href="http://www.danieldsjoberg.com/gtsummary/">`gtsummary` Package: Publication-Ready Analytical and Summary Tables Using *R*</a>
 - <a href="https://bookdown.org/yihui/rmarkdown/">R Markdown: The Definitive Guide</a>
+- <a href="https://bookdown.org/yihui/rmarkdown-cookbook/install-latex.html">R Markdown: LaTeX (`tinytex`) for PDF Reports</a>
 - <a href="https://rmarkdown.rstudio.com/lesson-11.html">Slide Presentations with *R*</a>
 
 ### *Web-Scraping*
